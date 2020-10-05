@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Breeze</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="server_info_string">SERVER</string>
+    <string name="send">Send</string>
+</resources>
